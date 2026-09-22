@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated reports (keep the directory via .gitkeep)
+reports/*.md
+!reports/.gitkeep
+
+# Tooling
+.pytest_cache/
+.opencode/
+.mypy_cache/

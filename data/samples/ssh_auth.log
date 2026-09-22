@@ -1,0 +1,31 @@
+Sep 20 03:14:52 mailserver sshd[1287]: Failed password for invalid user admin from 203.0.113.7 port 51230 ssh2
+Sep 20 03:14:55 mailserver sshd[1289]: Failed password for invalid user admin from 203.0.113.7 port 51244 ssh2
+Sep 20 03:14:58 mailserver sshd[1291]: Failed password for invalid user admin from 203.0.113.7 port 51261 ssh2
+Sep 20 03:15:01 mailserver sshd[1293]: Failed password for invalid user root from 203.0.113.7 port 51278 ssh2
+Sep 20 03:15:04 mailserver sshd[1295]: Failed password for invalid user root from 203.0.113.7 port 51295 ssh2
+Sep 20 03:15:07 mailserver sshd[1297]: Failed password for invalid user root from 203.0.113.7 port 51312 ssh2
+Sep 20 03:15:10 mailserver sshd[1299]: Failed password for invalid user root from 203.0.113.7 port 51329 ssh2
+Sep 20 03:18:39 mailserver sshd[1302]: Failed password for invalid user test from 203.0.113.7 port 51340 ssh2
+Sep 20 03:19:02 mailserver sshd[1304]: Connection closed by authenticating user root 203.0.113.7 port 51355 [preauth]
+Sep 20 03:21:44 mailserver sshd[1309]: Invalid user oracle from 198.51.100.23 port 38814
+Sep 20 03:22:10 mailserver sshd[1311]: Failed password for invalid user oracle from 198.51.100.23 port 38851 ssh2
+Sep 20 03:22:37 mailserver sshd[1313]: Failed password for invalid user oracle from 198.51.100.23 port 38872 ssh2
+Sep 20 03:23:01 mailserver sshd[1315]: Failed password for invalid user root from 198.51.100.23 port 38901 ssh2
+Sep 20 04:05:22 mailserver sshd[1400]: Accepted publickey for qusai from 192.0.2.10 port 50122 ssh2: RSA SHA256:abcdefghijklmnopqrstuvwxyz0123456789abcdef
+Sep 20 04:30:11 mailserver sshd[1421]: Accepted password for qusai from 192.0.2.10 port 50288 ssh2
+Sep 20 06:12:44 mailserver sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=0 euid=0 tty=/dev/pts/0 ruser=root rhost=192.0.2.15  user=root
+Sep 20 06:12:58 mailserver sudo: qusai : command not allowed ; TTY=pts/0 ; PWD=/home/qusai ; USER=root ; COMMAND=/bin/bash
+Sep 21 01:02:33 mailserver sshd[2210]: error: maximum authentication attempts exceeded for invalid user ubnt from 185.220.101.4 port 59990 ssh2 [preauth]
+Sep 21 01:02:35 mailserver sshd[2212]: Disconnected from authenticating user ubnt 185.220.101.4 port 59990 [preauth]
+Sep 21 01:03:12 mailserver sshd[2218]: Failed password for invalid user ubnt from 185.220.101.4 port 60003 ssh2
+Sep 21 01:03:14 mailserver sshd[2220]: Failed password for invalid user ubnt from 185.220.101.4 port 60020 ssh2
+Sep 21 01:03:16 mailserver sshd[2222]: Failed password for invalid user ubnt from 185.220.101.4 port 60037 ssh2
+Sep 21 01:03:18 mailserver sshd[2224]: Failed password for invalid user ubnt from 185.220.101.4 port 60054 ssh2
+Sep 21 01:03:20 mailserver sshd[2226]: Failed password for invalid user ubnt from 185.220.101.4 port 60071 ssh2
+Sep 21 01:03:21 mailserver sshd[2228]: Failed password for invalid user ubnt from 185.220.101.4 port 60088 ssh2
+Sep 21 01:03:23 mailserver sshd[2230]: Failed password for invalid user ubnt from 185.220.101.4 port 60105 ssh2
+Sep 21 01:03:25 mailserver sshd[2232]: Failed password for invalid user ubnt from 185.220.101.4 port 60122 ssh2
+Sep 21 09:40:05 mailserver sshd[2301]: reverse mapping checking getaddrinfo for 45.155.205.233 failed - POSSIBLE BREAK-IN ATTEMPT!
+Sep 21 09:40:09 mailserver sshd[2303]: Failed password for root from 45.155.205.233 port 34221 ssh2
+Sep 21 09:40:12 mailserver sshd[2305]: Failed password for root from 45.155.205.233 port 34233 ssh2
+Sep 21 18:55:02 mailserver sshd[2410]: Accepted publickey for deploy from 192.0.2.33 port 51002 ssh2: ED25519 SHA256:xyz987zyx987zyx987zyx987zyx987zyx987zyx987
