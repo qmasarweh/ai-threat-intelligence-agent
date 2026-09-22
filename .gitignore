@@ -11,5 +11,4 @@ reports/*.md
 
 # Tooling
 .pytest_cache/
-.opencode/
 .mypy_cache/
